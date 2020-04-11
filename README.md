@@ -21,11 +21,11 @@ from sinric import SinricPro
 from sinric import SinricProUdp
 from time import sleep
 
-appKey = '' # d89f1***-****-****-****-************
-secretKey = '' # f44d1d31-1c19-****-****-9bc96c34b5bb-d19f42dd-****-****-****-************
-device1 = '' # 5d7e7d96069e275ea9******
-device2 = '' # 5d80ac5713fa175e99******
-deviceIdArr = [device1,device2]
+appKey = '' arris8f60
+secretKey = '' 704FB8398F60
+device1 = '' d3a0698e-f1b6-494e-a1eb-7e2dd3cf6f0b
+device2 = '' 
+deviceIdArr = 
 
 def Events():
     while True:
@@ -54,16 +54,7 @@ if __name__ == '__main__':
 
 ```
 
-### Credentials file (credential.py)
-
-```python
-appKey = 'd89f1***-****-****-****-************'
-secretKey = 'f44d1d31-1c19-****-****-9bc96c34b5bb-d19f42dd-****-****-****-************'
-deviceId1 = '5d7e7d96069e275ea9******'
-deviceId2 = ' 5j7e7d96069e275ea9******'
-deviceId3 = ' 5d7e7d96069e275ea9******'
-lock = ' 5d7e7d96069e275ea9******'
-deviceIdArr = [deviceId1, deviceId2, deviceId3, lock]
+### 
 ```
 ### Pro Switch [Demo](https://github.com/sinricpro/Python-Examples/tree/master/pro_switch_example):
 
