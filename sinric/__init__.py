@@ -8,3 +8,4 @@
 from ._sinricpro import SinricPro
 from ._sinricproudp import SinricProUdp
 from ._events import Events, eventNames
+5e9170a60d202b3258095fa3
